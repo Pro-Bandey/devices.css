@@ -1,8 +1,8 @@
 {
   "name": "devices.css",
-  "homepage": "http://marvelapp.github.io/devices.css/",
+  "homepage": "http://pro-bandey.github.io/devices.css/",
   "authors": [
-    "Marvelapp Prototyping <support@marvelapp.com>"
+    "pro-bandey Prototyping <support@pro-bandey.com>"
   ],
   "description": "Pure CSS implementation of various mobile devices",
   "main": "assets/devices.min.css",
